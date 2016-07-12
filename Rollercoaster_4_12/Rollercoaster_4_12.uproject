@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.12",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Rollercoaster_4_12",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

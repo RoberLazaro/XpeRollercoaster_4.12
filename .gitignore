@@ -1,0 +1,14 @@
+#########################
+# Unreal Generated Files#
+#########################
+*/Build
+*/Binaries
+*/Intermediate
+*/DerivedDataCache
+*/Saved
+/Rollercoaster_4_12/Content/StarterContent
+
+######################
+# VS Generated Files #
+######################
+*VC.db
